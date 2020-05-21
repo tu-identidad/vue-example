@@ -22,3 +22,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Configure endpoint
+
+In file HelloWorld.vue on line 44 set your ApiKey and check the endpoint service of your request. 
